@@ -14,6 +14,16 @@
      <spring-version> 4.3.6.RELEASE</spring-version>
   </properties>
   <dependencies>
+  
+  
+  
+  <!-- Linked with backend project -->
+  <dependency>
+  <groupId>net.kzn</groupId>
+	<artifactId>shoppingbackend</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+  </dependency>
+       
   <!-- JavaEE-api -->
 
 
